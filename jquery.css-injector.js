@@ -1,5 +1,5 @@
 // CSS Injector
-// Febuary 6, 2015
+// February 6, 2015
 // The MIT License (MIT)
 // Copyright (c) 2015 Dustin Dowell
 // http://github.com/dustindowell22/css-injector
